@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'homework.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'localhost',
+        'NAME': 'postgres',
         'USER': 'kathiematta',
         'PASSWORD': 'pulgoso1',
         'HOST': '0.0.0.0',
